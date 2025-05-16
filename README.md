@@ -1,7 +1,7 @@
 Jesus Resendiz
 + Instagram: https://www.instagram.com/jessenstuff/
 + Email: Jesus.resendiz@haskell.edu
-+ I attend Haskell Indian Nations University
++ Haskell Indian Nations University
 + Environmental Science Major
 + Full time student
   
