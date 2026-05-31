@@ -1,4 +1,4 @@
-Jesus Resendiz
+# Jesus Resendiz
 + Instagram: https://www.instagram.com/jessenstuff/
 + Email: Jesusresendizjjr@gmail.com
 + Haskell Indian Nations University
